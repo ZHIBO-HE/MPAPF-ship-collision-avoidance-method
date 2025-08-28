@@ -35,6 +35,10 @@ The implementation is designed for research and testing of ship collision avoida
 ---
 
 ## Demo
+<p align="center">
+  <img src="case1_demo.gif" alt="MPAPF Case 1 Demo" width="600">
+</p>
+
 
 ---
 
